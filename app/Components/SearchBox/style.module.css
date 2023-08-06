@@ -1,0 +1,23 @@
+.search_container {
+  width: 100%;
+  display: flex;
+  gap: 20px;
+}
+
+.form_container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.modal_textarea {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin: 10px 0;
+}
+
+.not_msg{
+  color: red;
+}

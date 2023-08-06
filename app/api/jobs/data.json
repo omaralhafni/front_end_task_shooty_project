@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Senior Front-End Web Developer With React.Js",
+    "sector": "Computer",
+    "country": "jordan",
+    "city": "Beirut",
+    "description": "We are looking for a Senior Frontend Web Developer with React.js who possesses a passion for pushing mobile technologies to the limits and will work with our team of talented engineers."
+  },
+  {
+    "id": 2,
+    "title": "Senior UX/UI Designer",
+    "sector": "Computer",
+    "country": "palestine",
+    "city": "Beirut",
+    "description": "We are looking for a UX/UI Designer to design software and platforms that meet people’s needs. You will combine interfaces and workflows to enhance user experience.\n\n"
+  }
+]

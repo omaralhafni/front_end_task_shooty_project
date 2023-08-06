@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "sector",
+    "subTitle": [
+      {
+        "value": "sales",
+        "label": "sales"
+      },
+      {
+        "value": "Administration",
+        "label": "Administration"
+      },
+      {
+        "value": "Computer",
+        "label": "Computer"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "country",
+    "subTitle": [
+      {
+        "value": "palestine",
+        "label": "palestine"
+      },
+      {
+        "value": "jordan",
+        "label": "jordan"
+      },
+      {
+        "value": " lebanon",
+        "label": " lebanon"
+      },
+      {
+        "value": "Saudi Arabia",
+        "label": "Saudi Arabia"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "city",
+    "subTitle": [
+      {
+        "value": "Beirut",
+        "label": "Beirut"
+      }
+    ]
+  }
+]

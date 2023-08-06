@@ -1,0 +1,10 @@
+.custom_select {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  padding: 10px;
+  border: 1px solid #ced4da;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  background: url("../../../assets/images/Regular_triangle.svg") no-repeat
+    calc(100% - 3px) center/15px;
+}
